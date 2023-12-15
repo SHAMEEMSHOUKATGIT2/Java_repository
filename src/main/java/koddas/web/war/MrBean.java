@@ -1,7 +1,7 @@
 package koddas.web.war;
 
 import java.io.Serializable;
-/** added on 14122023 **/
+/** added on 15fndfdfndfdto test webhook 122023 **/
 /**
  * MrBean is a simple example of a Java bean; a small class that encapsulates a
  * number of values. It exposes an empty constructor and has a number of
